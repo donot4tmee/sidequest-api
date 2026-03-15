@@ -1,10 +1,16 @@
-[
- {
- "id": "fc16189b-ddf5-5fea-a36d-d4737ee37bd7",
- "author": "admin",
- "title": "Fox Story",
- "content": "The quick brown fox jumps over the lazy dog.",
- "isSynchronized": 0,
- "createdAt": 1734249472
- }
-]
+{
+    "std.user": {
+        "id": "5269641b-15b1-50b1-bd0f-10c81371f097",
+        "fullName": "Radz",
+        "hash": "$2b$12$jvleaXNOgwJfIdIeNFNcpeUxoYC1kYGXuPxWIBNztrttfe6Y1P7Pa",
+        "userLevel": 0,
+        "createdAt": 1773591929
+    },
+    "admin.user": {
+        "id": "48f10084-6629-5e6a-a046-c968481f15ae",
+        "fullName": "Admin",
+        "hash": "$2b$12$3agTd1gp8Kq9sdgKaUNyjeFCGhNAHGhss64S1Dwvwjgo9zfCHsHoS",
+        "userLevel": 2,
+        "createdAt": 1773591980
+    }
+}
