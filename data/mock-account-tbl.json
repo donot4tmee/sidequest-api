@@ -2,9 +2,9 @@
     "admin.user": {
         "id": "48f10084-6629-5e6a-a046-c968481f15ae",
         "fullName": "Admin",
-        "hash": "$2b$12$3agTd1gp8Kq9sdgKaUNyjeFCGhNAHGhss64S1Dwvwjgo9zfCHsHoS",
+        "hash": "$2b$12$J4q67Q8YfCVlIhhSM/angO61Bo3ETvXQwT.OcLJNn2VYnax3DjW5K",
         "userLevel": 2,
-        "createdAt": 1773591980
+        "createdAt": 1777140785
     },
     "std.user": {
         "id": "5269641b-15b1-50b1-bd0f-10c81371f097",
